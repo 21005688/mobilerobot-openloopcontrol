@@ -70,8 +70,8 @@ if __name__ == '__main__':
 
 ## MobileRobot Movement Image:
 
-![OUTPUT](.//H1.JPG)
-![OUTPUT](.//H2.JPG)
+![OUTPUT](.//H1.jpg)
+![OUTPUT](.//H2.jpg)
 
 ## MobileRobot Movement Video:
 
